@@ -1,0 +1,18 @@
+[
+    {
+        "role": "Associate Software Engineer",
+        "skills": "Node JS/Angular",
+        "company": "ChicMic, Mohali",
+        "duration": "July 2017",
+        "current": true,
+        "description": "My designation is a Associate Software Engineer. I work as a MEAN stack developer for web application."
+    },
+    {
+        "role": "Internship",
+        "skills": "Node JS, Angular JS",
+        "company": "ChicMic, Mohali",
+        "duration": "January 2017 - June 2017",
+        "current": false,
+        "description": "I am currently at training and working for web designing/Back-end and development on Angular and Node JS."
+    }
+]

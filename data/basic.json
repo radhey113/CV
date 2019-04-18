@@ -1,0 +1,14 @@
+{
+    "avatar": "radhey.jpg",
+    "name": "Radhey Shyam",
+    "work": "Software Engineer",
+    "address": "#782/B Small Flats, Dhanas, Chandigarh",
+    "email": "radheyg11@gmail.com",
+    "birthday": " 25 April, 1994",
+    "mobiles": [
+        {
+            "country": "in",
+            "number": "+91-8559018263"
+        }
+    ]
+}

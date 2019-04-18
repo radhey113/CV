@@ -1,0 +1,75 @@
+[
+    {
+        "skill": "C/C++",
+        "percent": 70
+    },
+    {
+        "skill": "Java Core",
+        "percent": 85
+    },
+    {
+        "skill": "HTML",
+        "percent": 85
+    },
+    {
+        "skill": "CSS",
+        "percent": 70
+    },
+    {
+        "skill": "Bootstrap",
+        "percent": 80
+    },
+    {
+        "skill": "Javascript (ES6)",
+        "percent": 95
+    },
+    {
+        "skill": "Typescript",
+        "percent": 80
+    },
+    {
+        "skill": "Node JS",
+        "percent": 95
+    },
+    {
+        "skill": "React JS (Familiar with Redux, Axios, Thunk etc.)",
+        "percent": 70
+    },
+    {
+        "skill": "Angular (1, 2, 4, 6, 7)",
+        "percent": 85
+    },
+    {
+        "skill": "Firebase",
+        "percent": 75
+    },
+    {
+        "skill": "AWS",
+        "percent": 80
+    },
+    {
+        "skill": "Heroku",
+        "percent": 60
+    },
+    {
+        "skill": "GrahpQL (Apollo Client/React Realy)",
+        "percent": 60
+    },
+    {
+        "skill": "JQuery",
+        "percent": 80
+    },
+    {
+        "skill": "AJAX",
+        "percent": 90
+    },
+    {
+        "skill": "SQL",
+        "percent": 85
+    },
+    {
+        "skill": "MongoDB",
+        "percent": 95
+    }
+
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Slots",
+		"skills": "Node JS/Angular/MongoDB/AWS",
+		"platform": "Ubuntu 18.04",
+		"duration": "15 Januarry 2018",
+		"running": true,
+		"link": "",
+		"role": "Full Stack developer",
+		"description": "Slots is a game based on card, there is three types of game SLOTS, SCRATCHERS, LOTTO. User can play LOTTO once in a day, Scratcher multiple times in a day, every draw has some number of amount to win. Admin credit the amount to users account manually by paypal."
+	},
+	{
+		"title": "Be My Guest",
+		"skills": "Node JS/MongoDB/AWS",
+		"platform": "Ubuntu 16.04",
+		"duration": "November 2018",
+		"running": true,
+		"link": "",
+		"role": "Back-end End Developer",
+		"description": "It is a Tinder like app for both android and iOS users to offer different offers like movies, exibitions, dinner, and many more to eachother. It has matching functionality like Tinder which allows users to chat each other."
+	},
+	{
+		"title": "Le Passe Trape",
+		"skills": "Node JS/Angular/MongoDB/AWS",
+		"platform": "Ubuntu 18.04",
+		"duration": "November 2018 - December 2018",
+		"running": false,
+		"link": "",
+		"role": "Full Stack Developer",
+		"description": "It is a multiplayer game handled by socket, it has two partition from where user throw balls from one partition to another partition, the cordinates of balls gets received and sent by the socket events."
+	},
+	{
+		"title": "Partner Application",
+		"skills": "Node JS/Angular/MongoDB/AWS",
+		"platform": "Ubuntu 18.04",
+		"duration": "June 2018 - August 2018",
+		"running": false,
+		"link": "",
+		"role": "Full Stack Developer",
+		"description": "It is an application from where user can post their work requirment like Construction/Developement andy kind of works, other user can bid on the post and apply for the job, admin can manage the bids and select the appropriate bid suitable for the work, super admin can only check the users and take strict action if anything goes wrong."
+	}
+]
