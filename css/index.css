@@ -1,3 +1,7 @@
+body {
+    background: #ffffff;
+}
+
 #avatar-div{
     min-height: 100px;
 }
@@ -41,7 +45,7 @@ a{
     animation-iteration-count: infinite;
     animation-name: placeHolderShimmer;
     animation-timing-function: linear;
-    background: #f6f7f8;
+    /*background: #f6f7f8;*/
     background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
     background-size: 800px 104px;
     height: 96px;
@@ -144,4 +148,19 @@ a{
 .background-masker.content-third-end {
     left: 300px;
     top: 88px;
+}
+
+.w3-text-grey, .w3-hover-text-grey:hover, .w3-text-gray, .w3-hover-text-gray:hover {
+    color: #000000 !important;
+    border: 1px solid #d3d3d3;
+    /*text-align: right;*/
+}
+
+.w3-round-xlarge {
+    border-radius: 0px;
+    box-shadow: 2px 1px 2px #dddddd;
+}
+
+.w3-card, .w3-card-2 {
+    box-shadow: none;
 }

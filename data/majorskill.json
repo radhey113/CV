@@ -1,7 +1,11 @@
 [
     {
+        "title": "Back-End development (Node JS)",
+        "percent": 90
+    },
+    {
         "title": "Native App Development (React Native)",
-        "percent": 85
+        "percent": 80
     },
     {
         "title": "Programming",
@@ -9,14 +13,10 @@
     },
     {
         "title": "Web Designing",
-        "percent": 90
+        "percent": 70
     },
     {
         "title": "Web Development",
         "percent": 80
-    },
-    {
-        "title": "Microsoft Office",
-        "percent": 75
     }
 ]
